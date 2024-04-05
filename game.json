@@ -1,0 +1,192 @@
+{
+  "start_state": "start_screen",
+  
+  "states": {
+
+    "start_screen": {
+      "img": "imgs/1.png"
+    },
+
+    "0,0": {
+      "north": "imgs/2North.png",
+      "west": "imgs/2West.png",
+      "east": "imgs/2East.png",
+      "south": "imgs/2South.png"
+    },
+
+    "0,1": {
+      "north": "imgs/3North.png",
+      "west": "imgs/3West.png",
+      "east": "imgs/3East.png",
+      "south": "imgs/3South.png"
+    },
+
+    "0,2": {
+      "north": "imgs/4North.png",
+      "west": "imgs/4West.png",
+      "east": "imgs/4East.png",
+      "south": "imgs/4South.png"
+    },
+
+    "-1,2": {
+      "north": "imgs/loop1North.png",
+      "west": "imgs/loop1West.png",
+      "east": "imgs/loop1East.png",
+      "south": "imgs/loop1South.png"
+    },
+
+    "0,3": {
+      "north": "imgs/5North.png",
+      "west": "imgs/5West.png",
+      "east": "imgs/5East.png",
+      "south": "imgs/5South.png"
+    },
+
+    "-1,3": {
+      "north": "imgs/6North.png",
+      "west": "imgs/6West.png",
+      "east": "imgs/6East.png",
+      "south": "imgs/6South.png"
+    },
+
+    "-1,4": {
+      "north": "imgs/7North.png",
+      "west": "imgs/7West.png",
+      "east": "imgs/7East.png",
+      "south": "imgs/7South.png"
+    },
+
+    "-1,5": {
+      "north": "imgs/8North.png",
+      "west": "imgs/8West.png",
+      "east": "imgs/8East.png",
+      "south": "imgs/8South.png"
+    },
+
+    "-2,5": {
+      "north": "imgs/loop2North.png",
+      "west": "imgs/loop2West.png",
+      "east": "imgs/loop2East.png",
+      "south": "imgs/loop2South.png"
+    },
+
+    "-1,6": {
+      "north": "imgs/9North.png",
+      "west": "imgs/9West.png",
+      "east": "imgs/9East.png",
+      "south": "imgs/9South.png"
+    },
+
+    "-2,6": {
+      "north": "imgs/meetupNorth.png",
+      "west": "imgs/meetupWest.png",
+      "east": "imgs/meetupEast.png",
+      "south": "imgs/meetupSouth.png"
+    },
+
+    "0,6": {
+      "north": "imgs/11North.png",
+      "west": "imgs/11West.png",
+      "east": "imgs/11East.png",
+      "south": "imgs/11South.png"
+    },
+
+    "-3,6": {
+      "north": "imgs/12North.png",
+      "east": "imgs/12West.png",
+      "west": "imgs/12East.png",
+      "south": "imgs/12South.png"
+    },
+
+    "-4,6": {
+      "north": "imgs/13North.png",
+      "west": "imgs/13West.png",
+      "east": "imgs/13East.png",
+      "south": "imgs/13South.png"
+    },
+
+    "-3,7": {
+      "north": "imgs/14North.png",
+      "east": "imgs/14West.png",
+      "west": "imgs/14East.png",
+      "south": "imgs/14South.png"
+    },
+
+    "-4,7": {
+      "north": "imgs/15North.png",
+      "east": "imgs/15West.png",
+      "west": "imgs/15East.png",
+      "south": "imgs/15South.png"
+    },
+
+    "-5,7": {
+      "north": "imgs/16North.png",
+      "east": "imgs/16West.png",
+      "west": "imgs/16East.png",
+      "south": "imgs/16South.png"
+    },
+
+    "-5,6": {
+      "north": "imgs/17North.png",
+      "west": "imgs/17West.png",
+      "east": "imgs/17East.png",
+      "south": "imgs/17South.png"
+    },
+
+    "100,100": {
+      "north": "imgs/p1North.png",
+      "west": "imgs/p1West.png",
+      "east": "imgs/p1East.png",
+      "south": "imgs/p1South.png"
+    },
+
+    "100,101": {
+      "north": "imgs/p2North.png",
+      "west": "imgs/p2West.png",
+      "east": "imgs/p2East.png",
+      "south": "imgs/p2South.png"
+    },
+
+    "100,102": {
+      "north": "imgs/room1North.png",
+      "east": "imgs/room1West.png",
+      "west": "imgs/room1East.png",
+      "south": "imgs/room1South.png"
+    },
+
+    "101,98": {
+      "south": "imgs/prison4North.png",
+      "east": "imgs/prison4West.png",
+      "west": "imgs/prison4East.png",
+      "north": "imgs/prison4South.png"
+    },
+
+    "102,98": {
+      "south": "imgs/prison3North.png",
+      "east": "imgs/prison3West.png",
+      "west": "imgs/prison3East.png",
+      "north": "imgs/prison3South.png"
+    },
+
+    "102,99": {
+      "south": "imgs/prison2North.png",
+      "east": "imgs/prison2West.png",
+      "west": "imgs/prison2East.png",
+      "north": "imgs/prison2South.png"
+    },
+
+    "101,99": {
+      "south": "imgs/prisonNorth.png",
+      "east": "imgs/prisonWest.png",
+      "west": "imgs/prisonEast.png",
+      "north": "imgs/prisonSouth.png"
+    },
+
+    "100,99": {
+      "north": "imgs/p3North.png",
+      "west": "imgs/p3West.png",
+      "east": "imgs/p3East.png",
+      "south": "imgs/p3South.png"
+    }
+  }
+}
